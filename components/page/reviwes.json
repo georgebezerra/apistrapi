@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_page_reviwes",
+  "info": {
+    "name": "reviwes",
+    "icon": "star-half"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
